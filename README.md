@@ -35,4 +35,4 @@ Software testing tool to detect inconsistencies in Java code
 
 ## License
 
-Weijie Huo
+Weijie Huo, MinHao Zhang
